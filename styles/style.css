@@ -10,10 +10,6 @@
   overflow: hidden;
 }
 
-.border {
-  border: 1px solid red;
-}
-
 .header {
   height: 100vh;
   min-height: 600px;
