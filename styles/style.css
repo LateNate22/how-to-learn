@@ -253,7 +253,7 @@
   position: relative;
   overflow: hidden;
   color: white;
-  padding-bottom: 90px;
+  padding: 90px 0;
 }
 
 .section-title_theme_dark {
@@ -276,6 +276,8 @@
   z-index: 1;
   position: absolute;
   right: -210px;
+  top: 0;
+  background-image: url(../images/kaufman-triangle.svg);
 }
 
 .footer {
@@ -301,7 +303,7 @@
 }
 
 .logo_place_footer {
-  background-image: url(/images/logo_place_footer.svg);
+  background-image: url(../images/logo_place_footer.svg);
   height: 35px;
   width: 183px;
   background-size: contain;
